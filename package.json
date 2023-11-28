@@ -1,0 +1,7 @@
+{
+  "name": "StartFullscreen",
+  "displayName": "Start in Full-Screen mode",
+  "version": "0.1",
+  "author": { "name": "David Capello", "email": "david@igara.com", "url": "https://davidcapello.com/" },
+  "contributes": { "scripts": "StartFullscreen.lua" }
+}
